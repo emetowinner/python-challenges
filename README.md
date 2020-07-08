@@ -12,14 +12,11 @@ _Welcome, this project aim is to provide you with micro and macro task while you
 
 - [Python Basic 1(target >>1 week)](https://github.com/emetowinner/python-challenges/tree/master/Phase-1/Python%20Basic%201)
 - [Python Basic 2(target >>1 week)](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-1/Python%20Basic%202)
-
+- More Coming
 
 **Phase 2 (Data Structures and Algorithms)**
 
-- [Python String](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/String)
-- [Python Json](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Json)
-- [Python List](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/List)
-- [Python Dictionary](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Dictionary)
+- Coming soon
 
 **Phase 3 (Objects)**
 
@@ -48,7 +45,7 @@ $ git remote add origin https://github.com/{YOUR-GITHUB-USERNAME}/python-challen
 ```
 
 ```sh
-$ git remote add upstream https://github.com/CodedLadiesInnovateTech/python-challenges.git
+$ git remote add upstream https://github.com/emetowinner/python-challenges.git
 ```
 
 Pull the code to your project directory and set it up by running the following command
@@ -63,7 +60,7 @@ $ git checkout master
 
 ## Task Submission
 
-Visit the submission [repository](https://github.com/CodedLadiesInnovateTech/python-challenge-solutions)
+Visit the submission repository
 
 ## Note:
 
@@ -75,6 +72,4 @@ $ git fetch upstream
 
 ## Reference:
 
-1.[w3resource](https://www.w3resource.com/)
-
-## HAPPY CODING!!
+1.[Code Challenge](https://www.w3resource.com/)
