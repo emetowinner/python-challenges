@@ -49,6 +49,7 @@
     Tools: input function, slicing
 
 
+<<<<<<< HEAD
 =======
 """
 1. Write a Python program to print the documents (syntax, description etc.) of Python built-in function(s).
@@ -102,3 +103,7 @@
 
 >>>>>>> f4444ec0d72c645d12694e90df7429456db0611c
 """
+=======
+
+"""
+>>>>>>> 60f1feb82c4ab3e6047d0c837a3639afc757930d
